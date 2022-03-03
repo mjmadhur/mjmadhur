@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mjmadhur
-- 🤝  An Android enthusiast
-- 🌱 I’m currently learning android dev using Kotlin
+- 🤝  An enthusiast Android Developer.
+- 🌱 I’m currently pursuing android dev using Kotlin.
 - 💞️ I’m looking to collaborate on any open source project regarding Android. 
 - 📫 How to reach me Contact gmail:madhurj.ip.20@nitj.ac.in
 
